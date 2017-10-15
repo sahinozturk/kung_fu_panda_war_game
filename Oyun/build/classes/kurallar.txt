@@ -1,0 +1,7 @@
+1) Her oyuncu 2 adet savaþçý ile oyuna baþlar
+2)Oyuncu savaþçýsýný 1 adým ileri götürmek isterse savaþçýsýnýn sayýsý 1 artar
+3)Eðer oyuncu 2 adým ileri götürmek isterse savaþçýsýný sadece taþýmýþ olur.
+4)Oyuncu rakip oyuncunun savaþçýsýnýn yanýna kendi savaþçýsýný getirdiði anda kendi savaþçýsýnýn 1 kare uzaklýðýndaki tüm rakip oyuncunun savaþçýlarýný kendi savaþçýsý yapar.
+5)Oyuncu savaþ sýrasýnda her seçim yaptýðý savaþçýsýný iptal edemez. Ýlk seçtiðini oynamak zorundadýr.
+6)Oyunculardan biri oyuna devam etmek istemiyorsa Pes butonuna basarak oyunu kaybettiðini kabul edebilir.
+7)Oyun ancak oyun tahtasýnda boþ bir kare kalmayana kadar ,Oyunculardan birinin tüm savaþçýlarýný kaybetmesi sonucu veya oyunculardan birinin pes etmesi ile sonlanabilir.
